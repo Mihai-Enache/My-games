@@ -1,6 +1,6 @@
 # My-games
   I created 3 games in this repository.
-  I used OpenGL and Visual Studio to create these game. To start the first game, from Visual Studio, modify in the file Main.cpp, 
+  I used C++, OpenGL and Visual Studio to create these game. To start the first game, from Visual Studio, modify in the file Main.cpp, 
 World *world = new Tema1(), then run. The first game is the same as Flappy Bird. In this game, player control a bird that needs to avoid 
 obstacles. The bird can go up using SPACE and when it hits the ground or an obstacle the game ends. To start again after you died press S.
 The number of points you make is equal to the number of obstacles that you pass.
